@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/QuakePrism.dir/objects.a
+/usr/bin/ar qc CMakeFiles/QuakePrism.dir/objects.a @CMakeFiles/QuakePrism.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -Wl,--whole-archive CMakeFiles/QuakePrism.dir/objects.a -Wl,--no-whole-archive -o QuakePrism.exe -Wl,--out-implib,libQuakePrism.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/QuakePrism.dir/linkLibs.rsp

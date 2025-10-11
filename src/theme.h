@@ -20,7 +20,7 @@ along with this program.
 #pragma once
 
 #include <algorithm>
-#include <glm/glm.hpp>
+#include <glm.hpp>
 #include <imgui.h>
 
 namespace QuakePrism {
@@ -126,4 +126,4 @@ inline ImU32 ColorWithMultipliedHue(const ImColor &color, float multiplier) {
 
 void SetImguiTheme();
 
-} // namespace QuakePrism::UI
+} // namespace QuakePrism

@@ -1,0 +1,3 @@
+/home/lanceb/QuakePrism/build-windows/CMakeFiles/QuakePrism.dir
+/home/lanceb/QuakePrism/build-windows/CMakeFiles/edit_cache.dir
+/home/lanceb/QuakePrism/build-windows/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+-I/home/lanceb/QuakePrism/lib/imgui -I/home/lanceb/QuakePrism/lib/imgui/backends -I/home/lanceb/QuakePrism/lib/glm -I/home/lanceb/QuakePrism/src -I"/usr/x86_64-w64-mingw32/include/SDL2"

@@ -2,6 +2,7 @@
 
 #include "imgui.h"
 #include <array>
+#include <cstdint>
 #include <map>
 #include <memory>
 #include <regex>
